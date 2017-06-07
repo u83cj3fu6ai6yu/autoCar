@@ -1,0 +1,589 @@
+C:\Users\kite\Downloads\hw2>c:\Python27\python.exe setup.py py2exe --include sip
+running py2exe
+*** searching for required modules ***
+*** parsing results ***
+creating python loader for extension 'numpy.core.umath' (c:\Python27\lib\site-packages\numpy\core\umath.pyd -> numpy.core.umath.pyd)
+creating python loader for extension 'numpy.core.operand_flag_tests' (c:\Python27\lib\site-packages\numpy\core\operand_flag_tests.pyd -> numpy.core.operand_flag_tests.pyd)
+creating python loader for extension '_ctypes' (c:\Python27\DLLs\_ctypes.pyd -> _ctypes.pyd)
+creating python loader for extension 'select' (c:\Python27\DLLs\select.pyd -> select.pyd)
+creating python loader for extension 'unicodedata' (c:\Python27\DLLs\unicodedata.pyd -> unicodedata.pyd)
+creating python loader for extension 'sip' (c:\Python27\lib\site-packages\sip.pyd -> sip.pyd)
+creating python loader for extension 'numpy.linalg._umath_linalg' (c:\Python27\lib\site-packages\numpy\linalg\_umath_linalg.pyd -> numpy.linalg._umath_linalg.pyd)
+creating python loader for extension 'numpy.core.struct_ufunc_test' (c:\Python27\lib\site-packages\numpy\core\struct_ufunc_test.pyd -> numpy.core.struct_ufunc_test.pyd)
+creating python loader for extension '_tkinter' (c:\Python27\DLLs\_tkinter.pyd -> _tkinter.pyd)
+creating python loader for extension 'numpy.fft.fftpack_lite' (c:\Python27\lib\site-packages\numpy\fft\fftpack_lite.pyd -> numpy.fft.fftpack_lite.pyd)
+creating python loader for extension 'numpy.core.umath_tests' (c:\Python27\lib\site-packages\numpy\core\umath_tests.pyd -> numpy.core.umath_tests.pyd)
+creating python loader for extension '_hashlib' (c:\Python27\DLLs\_hashlib.pyd -> _hashlib.pyd)
+creating python loader for extension 'bz2' (c:\Python27\DLLs\bz2.pyd -> bz2.pyd)
+creating python loader for extension '_ssl' (c:\Python27\DLLs\_ssl.pyd -> _ssl.pyd)
+creating python loader for extension 'PyQt4.QtCore' (c:\Python27\lib\site-packages\PyQt4\QtCore.pyd -> PyQt4.QtCore.pyd)
+creating python loader for extension 'numpy.random.mtrand' (c:\Python27\lib\site-packages\numpy\random\mtrand.pyd -> numpy.random.mtrand.pyd)
+creating python loader for extension 'numpy.core.multiarray_tests' (c:\Python27\lib\site-packages\numpy\core\multiarray_tests.pyd -> numpy.core.multiarray_tests.pyd)
+creating python loader for extension 'pyexpat' (c:\Python27\DLLs\pyexpat.pyd -> pyexpat.pyd)
+creating python loader for extension 'numpy.core._dummy' (c:\Python27\lib\site-packages\numpy\core\_dummy.pyd -> numpy.core._dummy.pyd)
+creating python loader for extension 'numpy.core.test_rational' (c:\Python27\lib\site-packages\numpy\core\test_rational.pyd -> numpy.core.test_rational.pyd)
+creating python loader for extension 'numpy.core.multiarray' (c:\Python27\lib\site-packages\numpy\core\multiarray.pyd -> numpy.core.multiarray.pyd)
+creating python loader for extension '_multiprocessing' (c:\Python27\DLLs\_multiprocessing.pyd -> _multiprocessing.pyd)
+creating python loader for extension 'PyQt4.QtGui' (c:\Python27\lib\site-packages\PyQt4\QtGui.pyd -> PyQt4.QtGui.pyd)
+creating python loader for extension 'numpy.linalg.lapack_lite' (c:\Python27\lib\site-packages\numpy\linalg\lapack_lite.pyd -> numpy.linalg.lapack_lite.pyd)
+creating python loader for extension '_socket' (c:\Python27\DLLs\_socket.pyd -> _socket.pyd)
+*** finding dlls needed ***
+*** create binaries ***
+*** byte compile python files ***
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\PyQt4.QtCore.py to PyQt4\QtCore.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\PyQt4.QtGui.py to PyQt4\QtGui.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\_ctypes.py to _ctypes.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\_hashlib.py to _hashlib.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\_multiprocessing.py to _multiprocessing.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\_socket.py to _socket.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\_ssl.py to _ssl.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\_tkinter.py to _tkinter.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\bz2.py to bz2.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.core._dummy.py to numpy\core\_dummy.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.core.multiarray.py to numpy\core\multiarray.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.core.multiarray_tests.py to numpy\core\multiarray_tests.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.core.operand_flag_tests.py to numpy\core\operand_flag_tests.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.core.struct_ufunc_test.py to numpy\core\struct_ufunc_test.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.core.test_rational.py to numpy\core\test_rational.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.core.umath.py to numpy\core\umath.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.core.umath_tests.py to numpy\core\umath_tests.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.fft.fftpack_lite.py to numpy\fft\fftpack_lite.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.linalg._umath_linalg.py to numpy\linalg\_umath_linalg.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.linalg.lapack_lite.py to numpy\linalg\lapack_lite.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\numpy.random.mtrand.py to numpy\random\mtrand.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\pyexpat.py to pyexpat.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\select.py to select.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\sip.py to sip.pyc
+byte-compiling C:\Users\kite\Downloads\hw2\build\bdist.win32\winexe\temp\unicodedata.py to unicodedata.pyc
+skipping byte-compilation of C:\Users\kite\Downloads\hw2\car.py to car.pyc
+skipping byte-compilation of C:\Users\kite\Downloads\hw2\street.pyc to street.pyc
+skipping byte-compilation of c:\Python27\lib\BaseHTTPServer.py to BaseHTTPServer.pyc
+skipping byte-compilation of c:\Python27\lib\ConfigParser.py to ConfigParser.pyc
+skipping byte-compilation of c:\Python27\lib\Queue.py to Queue.pyc
+skipping byte-compilation of c:\Python27\lib\SocketServer.py to SocketServer.pyc
+skipping byte-compilation of c:\Python27\lib\StringIO.py to StringIO.pyc
+skipping byte-compilation of c:\Python27\lib\UserDict.py to UserDict.pyc
+skipping byte-compilation of c:\Python27\lib\_LWPCookieJar.py to _LWPCookieJar.pyc
+skipping byte-compilation of c:\Python27\lib\_MozillaCookieJar.py to _MozillaCookieJar.pyc
+skipping byte-compilation of c:\Python27\lib\__future__.py to __future__.pyc
+skipping byte-compilation of c:\Python27\lib\_abcoll.py to _abcoll.pyc
+skipping byte-compilation of c:\Python27\lib\_osx_support.py to _osx_support.pyc
+skipping byte-compilation of c:\Python27\lib\_strptime.py to _strptime.pyc
+skipping byte-compilation of c:\Python27\lib\_threading_local.py to _threading_local.pyc
+skipping byte-compilation of c:\Python27\lib\_weakrefset.py to _weakrefset.pyc
+skipping byte-compilation of c:\Python27\lib\abc.py to abc.pyc
+skipping byte-compilation of c:\Python27\lib\ast.py to ast.pyc
+skipping byte-compilation of c:\Python27\lib\atexit.py to atexit.pyc
+skipping byte-compilation of c:\Python27\lib\base64.py to base64.pyc
+skipping byte-compilation of c:\Python27\lib\bdb.py to bdb.pyc
+skipping byte-compilation of c:\Python27\lib\bisect.py to bisect.pyc
+skipping byte-compilation of c:\Python27\lib\calendar.py to calendar.pyc
+skipping byte-compilation of c:\Python27\lib\cmd.py to cmd.pyc
+skipping byte-compilation of c:\Python27\lib\codecs.py to codecs.pyc
+skipping byte-compilation of c:\Python27\lib\collections.py to collections.pyc
+skipping byte-compilation of c:\Python27\lib\commands.py to commands.pyc
+skipping byte-compilation of c:\Python27\lib\contextlib.py to contextlib.pyc
+skipping byte-compilation of c:\Python27\lib\cookielib.py to cookielib.pyc
+skipping byte-compilation of c:\Python27\lib\copy.py to copy.pyc
+skipping byte-compilation of c:\Python27\lib\copy_reg.py to copy_reg.pyc
+skipping byte-compilation of c:\Python27\lib\ctypes\__init__.py to ctypes\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\ctypes\_endian.py to ctypes\_endian.pyc
+skipping byte-compilation of c:\Python27\lib\ctypes\wintypes.py to ctypes\wintypes.pyc
+skipping byte-compilation of c:\Python27\lib\curses\__init__.py to curses\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\curses\has_key.py to curses\has_key.pyc
+skipping byte-compilation of c:\Python27\lib\curses\wrapper.py to curses\wrapper.pyc
+skipping byte-compilation of c:\Python27\lib\difflib.py to difflib.pyc
+skipping byte-compilation of c:\Python27\lib\dis.py to dis.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\__init__.py to distutils\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\archive_util.py to distutils\archive_util.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\ccompiler.py to distutils\ccompiler.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\cmd.py to distutils\cmd.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\__init__.py to distutils\command\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\bdist.py to distutils\command\bdist.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\bdist_rpm.py to distutils\command\bdist_rpm.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\build.py to distutils\command\build.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\build_clib.py to distutils\command\build_clib.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\build_ext.py to distutils\command\build_ext.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\build_py.py to distutils\command\build_py.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\build_scripts.py to distutils\command\build_scripts.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\config.py to distutils\command\config.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\install.py to distutils\command\install.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\install_data.py to distutils\command\install_data.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\install_headers.py to distutils\command\install_headers.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\install_scripts.py to distutils\command\install_scripts.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\command\sdist.py to distutils\command\sdist.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\config.py to distutils\config.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\core.py to distutils\core.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\cygwinccompiler.py to distutils\cygwinccompiler.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\debug.py to distutils\debug.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\dep_util.py to distutils\dep_util.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\dir_util.py to distutils\dir_util.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\dist.py to distutils\dist.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\errors.py to distutils\errors.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\extension.py to distutils\extension.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\fancy_getopt.py to distutils\fancy_getopt.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\file_util.py to distutils\file_util.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\filelist.py to distutils\filelist.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\log.py to distutils\log.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\msvc9compiler.py to distutils\msvc9compiler.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\msvccompiler.py to distutils\msvccompiler.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\spawn.py to distutils\spawn.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\sysconfig.py to distutils\sysconfig.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\text_file.py to distutils\text_file.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\unixccompiler.py to distutils\unixccompiler.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\util.py to distutils\util.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\version.py to distutils\version.pyc
+skipping byte-compilation of c:\Python27\lib\distutils\versionpredicate.py to distutils\versionpredicate.pyc
+skipping byte-compilation of c:\Python27\lib\doctest.py to doctest.pyc
+skipping byte-compilation of c:\Python27\lib\dummy_thread.py to dummy_thread.pyc
+skipping byte-compilation of c:\Python27\lib\dummy_threading.py to dummy_threading.pyc
+skipping byte-compilation of c:\Python27\lib\email\__init__.py to email\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\email\_parseaddr.py to email\_parseaddr.pyc
+skipping byte-compilation of c:\Python27\lib\email\base64mime.py to email\base64mime.pyc
+skipping byte-compilation of c:\Python27\lib\email\charset.py to email\charset.pyc
+skipping byte-compilation of c:\Python27\lib\email\encoders.py to email\encoders.pyc
+skipping byte-compilation of c:\Python27\lib\email\errors.py to email\errors.pyc
+skipping byte-compilation of c:\Python27\lib\email\feedparser.py to email\feedparser.pyc
+skipping byte-compilation of c:\Python27\lib\email\generator.py to email\generator.pyc
+skipping byte-compilation of c:\Python27\lib\email\header.py to email\header.pyc
+skipping byte-compilation of c:\Python27\lib\email\iterators.py to email\iterators.pyc
+skipping byte-compilation of c:\Python27\lib\email\message.py to email\message.pyc
+skipping byte-compilation of c:\Python27\lib\email\mime\__init__.py to email\mime\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\email\parser.py to email\parser.pyc
+skipping byte-compilation of c:\Python27\lib\email\quoprimime.py to email\quoprimime.pyc
+skipping byte-compilation of c:\Python27\lib\email\utils.py to email\utils.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\__init__.py to encodings\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\aliases.py to encodings\aliases.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\ascii.py to encodings\ascii.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\base64_codec.py to encodings\base64_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\big5.py to encodings\big5.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\big5hkscs.py to encodings\big5hkscs.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\bz2_codec.py to encodings\bz2_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\charmap.py to encodings\charmap.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp037.py to encodings\cp037.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1006.py to encodings\cp1006.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1026.py to encodings\cp1026.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1140.py to encodings\cp1140.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1250.py to encodings\cp1250.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1251.py to encodings\cp1251.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1252.py to encodings\cp1252.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1253.py to encodings\cp1253.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1254.py to encodings\cp1254.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1255.py to encodings\cp1255.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1256.py to encodings\cp1256.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1257.py to encodings\cp1257.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1258.py to encodings\cp1258.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp424.py to encodings\cp424.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp437.py to encodings\cp437.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp500.py to encodings\cp500.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp720.py to encodings\cp720.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp737.py to encodings\cp737.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp775.py to encodings\cp775.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp850.py to encodings\cp850.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp852.py to encodings\cp852.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp855.py to encodings\cp855.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp856.py to encodings\cp856.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp857.py to encodings\cp857.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp858.py to encodings\cp858.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp860.py to encodings\cp860.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp861.py to encodings\cp861.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp862.py to encodings\cp862.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp863.py to encodings\cp863.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp864.py to encodings\cp864.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp865.py to encodings\cp865.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp866.py to encodings\cp866.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp869.py to encodings\cp869.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp874.py to encodings\cp874.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp875.py to encodings\cp875.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp932.py to encodings\cp932.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp949.py to encodings\cp949.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp950.py to encodings\cp950.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jis_2004.py to encodings\euc_jis_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jisx0213.py to encodings\euc_jisx0213.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jp.py to encodings\euc_jp.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_kr.py to encodings\euc_kr.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gb18030.py to encodings\gb18030.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gb2312.py to encodings\gb2312.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gbk.py to encodings\gbk.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hex_codec.py to encodings\hex_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hp_roman8.py to encodings\hp_roman8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hz.py to encodings\hz.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\idna.py to encodings\idna.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp.py to encodings\iso2022_jp.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_1.py to encodings\iso2022_jp_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_2.py to encodings\iso2022_jp_2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_2004.py to encodings\iso2022_jp_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_3.py to encodings\iso2022_jp_3.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_ext.py to encodings\iso2022_jp_ext.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_kr.py to encodings\iso2022_kr.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_1.py to encodings\iso8859_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_10.py to encodings\iso8859_10.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_11.py to encodings\iso8859_11.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_13.py to encodings\iso8859_13.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_14.py to encodings\iso8859_14.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_15.py to encodings\iso8859_15.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_16.py to encodings\iso8859_16.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_2.py to encodings\iso8859_2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_3.py to encodings\iso8859_3.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_4.py to encodings\iso8859_4.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_5.py to encodings\iso8859_5.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_6.py to encodings\iso8859_6.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_7.py to encodings\iso8859_7.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_8.py to encodings\iso8859_8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_9.py to encodings\iso8859_9.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\johab.py to encodings\johab.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\koi8_r.py to encodings\koi8_r.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\koi8_u.py to encodings\koi8_u.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\latin_1.py to encodings\latin_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_arabic.py to encodings\mac_arabic.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_centeuro.py to encodings\mac_centeuro.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_croatian.py to encodings\mac_croatian.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_cyrillic.py to encodings\mac_cyrillic.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_farsi.py to encodings\mac_farsi.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_greek.py to encodings\mac_greek.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_iceland.py to encodings\mac_iceland.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_latin2.py to encodings\mac_latin2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_roman.py to encodings\mac_roman.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_romanian.py to encodings\mac_romanian.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_turkish.py to encodings\mac_turkish.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mbcs.py to encodings\mbcs.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\palmos.py to encodings\palmos.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\ptcp154.py to encodings\ptcp154.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\punycode.py to encodings\punycode.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\quopri_codec.py to encodings\quopri_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\raw_unicode_escape.py to encodings\raw_unicode_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\rot_13.py to encodings\rot_13.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jis.py to encodings\shift_jis.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jis_2004.py to encodings\shift_jis_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jisx0213.py to encodings\shift_jisx0213.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\string_escape.py to encodings\string_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\tis_620.py to encodings\tis_620.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\undefined.py to encodings\undefined.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\unicode_escape.py to encodings\unicode_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\unicode_internal.py to encodings\unicode_internal.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16.py to encodings\utf_16.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16_be.py to encodings\utf_16_be.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16_le.py to encodings\utf_16_le.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32.py to encodings\utf_32.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32_be.py to encodings\utf_32_be.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32_le.py to encodings\utf_32_le.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_7.py to encodings\utf_7.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_8.py to encodings\utf_8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_8_sig.py to encodings\utf_8_sig.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\uu_codec.py to encodings\uu_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\zlib_codec.py to encodings\zlib_codec.pyc
+skipping byte-compilation of c:\Python27\lib\fileinput.py to fileinput.pyc
+skipping byte-compilation of c:\Python27\lib\fnmatch.py to fnmatch.pyc
+skipping byte-compilation of c:\Python27\lib\formatter.py to formatter.pyc
+skipping byte-compilation of c:\Python27\lib\ftplib.py to ftplib.pyc
+skipping byte-compilation of c:\Python27\lib\functools.py to functools.pyc
+skipping byte-compilation of c:\Python27\lib\genericpath.py to genericpath.pyc
+skipping byte-compilation of c:\Python27\lib\getopt.py to getopt.pyc
+skipping byte-compilation of c:\Python27\lib\getpass.py to getpass.pyc
+skipping byte-compilation of c:\Python27\lib\gettext.py to gettext.pyc
+skipping byte-compilation of c:\Python27\lib\glob.py to glob.pyc
+skipping byte-compilation of c:\Python27\lib\gzip.py to gzip.pyc
+skipping byte-compilation of c:\Python27\lib\hashlib.py to hashlib.pyc
+skipping byte-compilation of c:\Python27\lib\heapq.py to heapq.pyc
+skipping byte-compilation of c:\Python27\lib\hmac.py to hmac.pyc
+skipping byte-compilation of c:\Python27\lib\httplib.py to httplib.pyc
+skipping byte-compilation of c:\Python27\lib\importlib\__init__.py to importlib\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\inspect.py to inspect.pyc
+skipping byte-compilation of c:\Python27\lib\io.py to io.pyc
+skipping byte-compilation of c:\Python27\lib\json\__init__.py to json\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\json\decoder.py to json\decoder.pyc
+skipping byte-compilation of c:\Python27\lib\json\encoder.py to json\encoder.pyc
+skipping byte-compilation of c:\Python27\lib\json\scanner.py to json\scanner.pyc
+skipping byte-compilation of c:\Python27\lib\keyword.py to keyword.pyc
+skipping byte-compilation of c:\Python27\lib\lib-tk\FixTk.py to FixTk.pyc
+skipping byte-compilation of c:\Python27\lib\lib-tk\Tkconstants.py to Tkconstants.pyc
+skipping byte-compilation of c:\Python27\lib\lib-tk\Tkinter.py to Tkinter.pyc
+skipping byte-compilation of c:\Python27\lib\linecache.py to linecache.pyc
+skipping byte-compilation of c:\Python27\lib\locale.py to locale.pyc
+skipping byte-compilation of c:\Python27\lib\logging\__init__.py to logging\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\mimetools.py to mimetools.pyc
+skipping byte-compilation of c:\Python27\lib\mimetypes.py to mimetypes.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\__init__.py to multiprocessing\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\connection.py to multiprocessing\connection.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\dummy\__init__.py to multiprocessing\dummy\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\dummy\connection.py to multiprocessing\dummy\connection.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\forking.py to multiprocessing\forking.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\heap.py to multiprocessing\heap.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\managers.py to multiprocessing\managers.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\pool.py to multiprocessing\pool.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\process.py to multiprocessing\process.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\queues.py to multiprocessing\queues.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\reduction.py to multiprocessing\reduction.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\sharedctypes.py to multiprocessing\sharedctypes.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\synchronize.py to multiprocessing\synchronize.pyc
+skipping byte-compilation of c:\Python27\lib\multiprocessing\util.py to multiprocessing\util.pyc
+skipping byte-compilation of c:\Python27\lib\ntpath.py to ntpath.pyc
+skipping byte-compilation of c:\Python27\lib\nturl2path.py to nturl2path.pyc
+skipping byte-compilation of c:\Python27\lib\numbers.py to numbers.pyc
+skipping byte-compilation of c:\Python27\lib\opcode.py to opcode.pyc
+skipping byte-compilation of c:\Python27\lib\optparse.py to optparse.pyc
+skipping byte-compilation of c:\Python27\lib\os.py to os.pyc
+skipping byte-compilation of c:\Python27\lib\os2emxpath.py to os2emxpath.pyc
+skipping byte-compilation of c:\Python27\lib\pdb.py to pdb.pyc
+skipping byte-compilation of c:\Python27\lib\pickle.py to pickle.pyc
+skipping byte-compilation of c:\Python27\lib\pkgutil.py to pkgutil.pyc
+skipping byte-compilation of c:\Python27\lib\platform.py to platform.pyc
+skipping byte-compilation of c:\Python27\lib\plistlib.py to plistlib.pyc
+skipping byte-compilation of c:\Python27\lib\posixpath.py to posixpath.pyc
+skipping byte-compilation of c:\Python27\lib\pprint.py to pprint.pyc
+skipping byte-compilation of c:\Python27\lib\py_compile.py to py_compile.pyc
+skipping byte-compilation of c:\Python27\lib\pydoc.py to pydoc.pyc
+skipping byte-compilation of c:\Python27\lib\pydoc_data\__init__.py to pydoc_data\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\pydoc_data\topics.py to pydoc_data\topics.pyc
+skipping byte-compilation of c:\Python27\lib\quopri.py to quopri.pyc
+skipping byte-compilation of c:\Python27\lib\random.py to random.pyc
+skipping byte-compilation of c:\Python27\lib\re.py to re.pyc
+skipping byte-compilation of c:\Python27\lib\repr.py to repr.pyc
+skipping byte-compilation of c:\Python27\lib\rfc822.py to rfc822.pyc
+skipping byte-compilation of c:\Python27\lib\sets.py to sets.pyc
+skipping byte-compilation of c:\Python27\lib\shlex.py to shlex.pyc
+skipping byte-compilation of c:\Python27\lib\shutil.py to shutil.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\PyQt4\__init__.py to PyQt4\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\__config__.py to numpy\__config__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\__init__.py to numpy\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\_distributor_init.py to numpy\_distributor_init.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\_globals.py to numpy\_globals.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\_import_tools.py to numpy\_import_tools.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\add_newdocs.py to numpy\add_newdocs.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\compat\__init__.py to numpy\compat\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\compat\_inspect.py to numpy\compat\_inspect.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\compat\py3k.py to numpy\compat\py3k.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\__init__.py to numpy\core\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\_internal.py to numpy\core\_internal.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\_methods.py to numpy\core\_methods.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\arrayprint.py to numpy\core\arrayprint.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\cversions.py to numpy\core\cversions.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\defchararray.py to numpy\core\defchararray.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\einsumfunc.py to numpy\core\einsumfunc.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\fromnumeric.py to numpy\core\fromnumeric.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\function_base.py to numpy\core\function_base.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\generate_numpy_api.py to numpy\core\generate_numpy_api.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\getlimits.py to numpy\core\getlimits.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\info.py to numpy\core\info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\machar.py to numpy\core\machar.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\memmap.py to numpy\core\memmap.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\numeric.py to numpy\core\numeric.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\numerictypes.py to numpy\core\numerictypes.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\records.py to numpy\core\records.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\setup.py to numpy\core\setup.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\setup_common.py to numpy\core\setup_common.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\core\shape_base.py to numpy\core\shape_base.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\ctypeslib.py to numpy\ctypeslib.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\__config__.py to numpy\distutils\__config__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\__init__.py to numpy\distutils\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\__version__.py to numpy\distutils\__version__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\ccompiler.py to numpy\distutils\ccompiler.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\__init__.py to numpy\distutils\command\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\autodist.py to numpy\distutils\command\autodist.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\bdist_rpm.py to numpy\distutils\command\bdist_rpm.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\build.py to numpy\distutils\command\build.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\build_clib.py to numpy\distutils\command\build_clib.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\build_ext.py to numpy\distutils\command\build_ext.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\build_py.py to numpy\distutils\command\build_py.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\build_scripts.py to numpy\distutils\command\build_scripts.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\build_src.py to numpy\distutils\command\build_src.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\config.py to numpy\distutils\command\config.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\config_compiler.py to numpy\distutils\command\config_compiler.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\develop.py to numpy\distutils\command\develop.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\egg_info.py to numpy\distutils\command\egg_info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\install.py to numpy\distutils\command\install.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\install_clib.py to numpy\distutils\command\install_clib.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\install_data.py to numpy\distutils\command\install_data.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\install_headers.py to numpy\distutils\command\install_headers.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\command\sdist.py to numpy\distutils\command\sdist.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\compat.py to numpy\distutils\compat.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\conv_template.py to numpy\distutils\conv_template.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\core.py to numpy\distutils\core.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\cpuinfo.py to numpy\distutils\cpuinfo.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\environment.py to numpy\distutils\environment.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\exec_command.py to numpy\distutils\exec_command.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\extension.py to numpy\distutils\extension.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\fcompiler\__init__.py to numpy\distutils\fcompiler\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\from_template.py to numpy\distutils\from_template.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\info.py to numpy\distutils\info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\lib2def.py to numpy\distutils\lib2def.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\log.py to numpy\distutils\log.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\mingw32ccompiler.py to numpy\distutils\mingw32ccompiler.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\misc_util.py to numpy\distutils\misc_util.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\npy_pkg_config.py to numpy\distutils\npy_pkg_config.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\numpy_distribution.py to numpy\distutils\numpy_distribution.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\system_info.py to numpy\distutils\system_info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\distutils\unixccompiler.py to numpy\distutils\unixccompiler.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\dual.py to numpy\dual.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\__init__.py to numpy\f2py\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\__version__.py to numpy\f2py\__version__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\auxfuncs.py to numpy\f2py\auxfuncs.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\capi_maps.py to numpy\f2py\capi_maps.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\cb_rules.py to numpy\f2py\cb_rules.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\cfuncs.py to numpy\f2py\cfuncs.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\common_rules.py to numpy\f2py\common_rules.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\crackfortran.py to numpy\f2py\crackfortran.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\diagnose.py to numpy\f2py\diagnose.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\f2py2e.py to numpy\f2py\f2py2e.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\f2py_testing.py to numpy\f2py\f2py_testing.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\f90mod_rules.py to numpy\f2py\f90mod_rules.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\func2subr.py to numpy\f2py\func2subr.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\rules.py to numpy\f2py\rules.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\f2py\use_rules.py to numpy\f2py\use_rules.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\fft\__init__.py to numpy\fft\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\fft\fftpack.py to numpy\fft\fftpack.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\fft\helper.py to numpy\fft\helper.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\fft\info.py to numpy\fft\info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\__init__.py to numpy\lib\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\_datasource.py to numpy\lib\_datasource.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\_iotools.py to numpy\lib\_iotools.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\_version.py to numpy\lib\_version.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\arraypad.py to numpy\lib\arraypad.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\arraysetops.py to numpy\lib\arraysetops.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\arrayterator.py to numpy\lib\arrayterator.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\financial.py to numpy\lib\financial.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\format.py to numpy\lib\format.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\function_base.py to numpy\lib\function_base.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\index_tricks.py to numpy\lib\index_tricks.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\info.py to numpy\lib\info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\nanfunctions.py to numpy\lib\nanfunctions.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\npyio.py to numpy\lib\npyio.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\polynomial.py to numpy\lib\polynomial.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\recfunctions.py to numpy\lib\recfunctions.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\scimath.py to numpy\lib\scimath.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\setup.py to numpy\lib\setup.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\shape_base.py to numpy\lib\shape_base.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\stride_tricks.py to numpy\lib\stride_tricks.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\twodim_base.py to numpy\lib\twodim_base.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\type_check.py to numpy\lib\type_check.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\ufunclike.py to numpy\lib\ufunclike.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\user_array.py to numpy\lib\user_array.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\lib\utils.py to numpy\lib\utils.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\linalg\__init__.py to numpy\linalg\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\linalg\info.py to numpy\linalg\info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\linalg\linalg.py to numpy\linalg\linalg.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\ma\__init__.py to numpy\ma\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\ma\core.py to numpy\ma\core.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\ma\extras.py to numpy\ma\extras.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\ma\mrecords.py to numpy\ma\mrecords.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\matrixlib\__init__.py to numpy\matrixlib\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\matrixlib\defmatrix.py to numpy\matrixlib\defmatrix.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\matrixlib\setup.py to numpy\matrixlib\setup.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\__init__.py to numpy\polynomial\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\_polybase.py to numpy\polynomial\_polybase.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\chebyshev.py to numpy\polynomial\chebyshev.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\hermite.py to numpy\polynomial\hermite.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\hermite_e.py to numpy\polynomial\hermite_e.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\laguerre.py to numpy\polynomial\laguerre.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\legendre.py to numpy\polynomial\legendre.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\polynomial.py to numpy\polynomial\polynomial.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\polynomial\polyutils.py to numpy\polynomial\polyutils.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\random\__init__.py to numpy\random\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\random\info.py to numpy\random\info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\testing\__init__.py to numpy\testing\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\testing\decorators.py to numpy\testing\decorators.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\testing\noseclasses.py to numpy\testing\noseclasses.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\testing\nosetester.py to numpy\testing\nosetester.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\testing\utils.py to numpy\testing\utils.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\numpy\version.py to numpy\version.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\pkg_resources\__init__.py to pkg_resources\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\pkg_resources\extern\__init__.py to pkg_resources\extern\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\__init__.py to setuptools\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\archive_util.py to setuptools\archive_util.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\__init__.py to setuptools\command\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\bdist_egg.py to setuptools\command\bdist_egg.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\bdist_rpm.py to setuptools\command\bdist_rpm.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\develop.py to setuptools\command\develop.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\easy_install.py to setuptools\command\easy_install.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\egg_info.py to setuptools\command\egg_info.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\install.py to setuptools\command\install.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\install_scripts.py to setuptools\command\install_scripts.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\py36compat.py to setuptools\command\py36compat.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\sdist.py to setuptools\command\sdist.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\command\setopt.py to setuptools\command\setopt.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\depends.py to setuptools\depends.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\dist.py to setuptools\dist.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\extension.py to setuptools\extension.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\extern\__init__.py to setuptools\extern\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\glob.py to setuptools\glob.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\monkey.py to setuptools\monkey.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\package_index.py to setuptools\package_index.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\py26compat.py to setuptools\py26compat.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\py27compat.py to setuptools\py27compat.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\py31compat.py to setuptools\py31compat.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\sandbox.py to setuptools\sandbox.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\ssl_support.py to setuptools\ssl_support.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\unicode_utils.py to setuptools\unicode_utils.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\version.py to setuptools\version.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\setuptools\windows_support.py to setuptools\windows_support.pyc
+skipping byte-compilation of c:\Python27\lib\site.py to site.pyc
+skipping byte-compilation of c:\Python27\lib\socket.py to socket.pyc
+skipping byte-compilation of c:\Python27\lib\sre.py to sre.pyc
+skipping byte-compilation of c:\Python27\lib\sre_compile.py to sre_compile.pyc
+skipping byte-compilation of c:\Python27\lib\sre_constants.py to sre_constants.pyc
+skipping byte-compilation of c:\Python27\lib\sre_parse.py to sre_parse.pyc
+skipping byte-compilation of c:\Python27\lib\ssl.py to ssl.pyc
+skipping byte-compilation of c:\Python27\lib\stat.py to stat.pyc
+skipping byte-compilation of c:\Python27\lib\string.py to string.pyc
+skipping byte-compilation of c:\Python27\lib\stringprep.py to stringprep.pyc
+skipping byte-compilation of c:\Python27\lib\struct.py to struct.pyc
+skipping byte-compilation of c:\Python27\lib\subprocess.py to subprocess.pyc
+skipping byte-compilation of c:\Python27\lib\sysconfig.py to sysconfig.pyc
+skipping byte-compilation of c:\Python27\lib\tarfile.py to tarfile.pyc
+skipping byte-compilation of c:\Python27\lib\tempfile.py to tempfile.pyc
+skipping byte-compilation of c:\Python27\lib\textwrap.py to textwrap.pyc
+skipping byte-compilation of c:\Python27\lib\threading.py to threading.pyc
+skipping byte-compilation of c:\Python27\lib\token.py to token.pyc
+skipping byte-compilation of c:\Python27\lib\tokenize.py to tokenize.pyc
+skipping byte-compilation of c:\Python27\lib\traceback.py to traceback.pyc
+skipping byte-compilation of c:\Python27\lib\tty.py to tty.pyc
+skipping byte-compilation of c:\Python27\lib\types.py to types.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\__init__.py to unittest\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\case.py to unittest\case.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\loader.py to unittest\loader.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\main.py to unittest\main.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\result.py to unittest\result.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\runner.py to unittest\runner.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\signals.py to unittest\signals.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\suite.py to unittest\suite.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\util.py to unittest\util.pyc
+skipping byte-compilation of c:\Python27\lib\urllib.py to urllib.pyc
+skipping byte-compilation of c:\Python27\lib\urllib2.py to urllib2.pyc
+skipping byte-compilation of c:\Python27\lib\urlparse.py to urlparse.pyc
+skipping byte-compilation of c:\Python27\lib\uu.py to uu.pyc
+skipping byte-compilation of c:\Python27\lib\warnings.py to warnings.pyc
+skipping byte-compilation of c:\Python27\lib\weakref.py to weakref.pyc
+skipping byte-compilation of c:\Python27\lib\webbrowser.py to webbrowser.pyc
+skipping byte-compilation of c:\Python27\lib\xml\__init__.py to xml\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\xml\parsers\__init__.py to xml\parsers\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\xml\parsers\expat.py to xml\parsers\expat.pyc
+skipping byte-compilation of c:\Python27\lib\xmllib.py to xmllib.pyc
+skipping byte-compilation of c:\Python27\lib\xmlrpclib.py to xmlrpclib.pyc
+skipping byte-compilation of c:\Python27\lib\zipfile.py to zipfile.pyc
+*** copy extensions ***
+*** copy dlls ***
+copying c:\Python27\lib\site-packages\py2exe\run_w.exe -> C:\Users\kite\Downloads\hw2\dist\main.exe
+The following modules appear to be missing
+['Carbon', 'Carbon.Files', 'Numeric', '__svn_version__', '_curses', '_imp', '_scproxy', '_sysconfigdata', 'backports.ssl_match_hostname', 'builtins', 'certifi', 'code_generators.genapi', 'code_generators.numpy_api', 'compat.long', 'configparser', 'copyreg', 'core.abs', 'core.max', 'core.min', 'core.round', 'dummy.Process', 'fcompiler.FCompiler', 'fcompiler.has_f90_header', 'fcompiler.is_f_file', 'genapi', 'importlib.machinery', 'nose', 'nose.plugins', 'nose.plugins.base', 'nose.plugins.builtin', 'nose.plugins.errorclass', 'nose.util', 'numarray', 'numpy._build_utils.apple_accelerate', 'numpy.amax', 'numpy.amin', 'numpy.array', 'numpy.bool_', 'numpy.compat.asbytes', 'numpy.compat.asbytes_nested', 'numpy.compat.asstr', 'numpy.compat.basestring', 'numpy.compat.bytes', 'numpy.compat.integer_types', 'numpy.compat.is_pathlib_path', 'numpy.compat.isfileobj', 'numpy.compat.long', 'numpy.compat.npy_load_module', 'numpy.compat.open_latin1', 'numpy.compat.sixu', 'numpy.compat.unicode', 'numpy.core.Inf', 'numpy.core.absolute', 'numpy.core.add', 'numpy.core.all', 'numpy.core.amax', 'numpy.core.amin', 'numpy.core.any', 'numpy.core.arange', 'numpy.core.around', 'numpy.core.array', 'numpy.core.array_repr', 'numpy.core.asanyarray', 'numpy.core.asarray', 'numpy.core.atleast_1d', 'numpy.core.atleast_2d', 'numpy.core.atleast_3d', 'numpy.core.bitwise_and', 'numpy.core.bitwise_or', 'numpy.core.bitwise_xor', 'numpy.core.broadcast', 'numpy.core.cdouble', 'numpy.core.complexfloating', 'numpy.core.concatenate', 'numpy.core.conjugate', 'numpy.core.csingle', 'numpy.core.divide', 'numpy.core.dot', 'numpy.core.double', 'numpy.core.empty', 'numpy.core.empty_like', 'numpy.core.equal', 'numpy.core.errstate', 'numpy.core.fastCopyAndTranspose', 'numpy.core.finfo', 'numpy.core.float32', 'numpy.core.float64', 'numpy.core.float_', 'numpy.core.geterrobj', 'numpy.core.greater', 'numpy.core.greater_equal', 'numpy.core.hstack', 'numpy.core.iinfo', 'numpy.core.inexact', 'numpy.core.inf', 'numpy.core.intc', 'numpy.core.integer', 'numpy.core.intp', 'numpy.core.invert', 'numpy.core.isfinite', 'numpy.core.isinf', 'numpy.core.isnan', 'numpy.core.isscalar', 'numpy.core.left_shift', 'numpy.core.less', 'numpy.core.less_equal', 'numpy.core.linspace', 'numpy.core.longdouble', 'numpy.core.maximum', 'numpy.core.multiply', 'numpy.core.ndarray', 'numpy.core.newaxis', 'numpy.core.not_equal', 'numpy.core.number', 'numpy.core.object_', 'numpy.core.ones', 'numpy.core.power', 'numpy.core.product', 'numpy.core.ravel', 'numpy.core.remainder', 'numpy.core.reshape', 'numpy.core.result_type', 'numpy.core.right_shift', 'numpy.core.rollaxis', 'numpy.core.shape', 'numpy.core.signbit', 'numpy.core.sin', 'numpy.core.single', 'numpy.core.size', 'numpy.core.sqrt', 'numpy.core.subtract', 'numpy.core.sum', 'numpy.core.swapaxes', 'numpy.core.take', 'numpy.core.transpose', 'numpy.core.ufunc', 'numpy.core.vstack', 'numpy.core.zeros', 'numpy.deprecate', 'numpy.dtype', 'numpy.expand_dims', 'numpy.eye', 'numpy.histogramdd', 'numpy.integer', 'numpy.intp', 'numpy.iscomplexobj', 'numpy.lib.add_newdoc', 'numpy.lib.asfarray', 'numpy.lib.i0', 'numpy.lib.imag', 'numpy.lib.iscomplexobj', 'numpy.lib.real', 'numpy.lib.triu', 'numpy.linalg.eigvals', 'numpy.linalg.inv', 'numpy.linalg.lstsq', 'numpy.ma.MAError', 'numpy.ma.MaskedArray', 'numpy.ma.filled', 'numpy.ma.getdata', 'numpy.ma.getmaskarray', 'numpy.ma.make_mask_descr', 'numpy.ma.masked', 'numpy.ma.masked_array', 'numpy.ma.nomask', 'numpy.ndarray', 'numpy.recarray', 'numpy_api', 'numpy_distutils', 'numpy_distutils.command.build_flib', 'numpy_distutils.command.cpuinfo', 'numpy_distutils.cpuinfo', 'numpy_distutils.fcompiler', 'org.python.modules.posix.PosixModule', 'pathlib', 'pkg_resources.extern.appdirs', 'pkg_resources.extern.packaging', 'pkg_resources.extern.six', 'pkg_resources.extern.six.moves', 'scipy', 'setuptools.extern.six', 'setuptools.extern.six.moves', 'setuptools_svn', 'sitecustomize', 'testing.Tester', 'urllib.error', 'urllib.parse', 'urllib.request', 'usercustomize', 'win32api', 'win32com.client.gencache', 'win32con', 'win32pdh', 'win32pipe', 'wincertstore', 'winreg']
+
+*** binary dependencies ***
+Your executable(s) also depend on these dlls which are not included,
+you may or may not need to distribute them.
+
+Make sure you have the license if you distribute any of them, and
+make sure you don't distribute files belonging to the operating system.
+
+   OLEAUT32.dll - C:\WINDOWS\system32\OLEAUT32.dll
+   USER32.dll - C:\WINDOWS\system32\USER32.dll
+   IMM32.dll - C:\WINDOWS\system32\IMM32.dll
+   SHELL32.dll - C:\WINDOWS\system32\SHELL32.dll
+   KERNEL32.dll - C:\WINDOWS\system32\KERNEL32.dll
+   COMDLG32.dll - C:\WINDOWS\system32\COMDLG32.dll
+   COMCTL32.dll - C:\WINDOWS\system32\COMCTL32.dll
+   ADVAPI32.dll - C:\WINDOWS\system32\ADVAPI32.dll
+   msvcrt.dll - C:\WINDOWS\system32\msvcrt.dll
+   WS2_32.dll - C:\WINDOWS\system32\WS2_32.dll
+   WINSPOOL.DRV - C:\WINDOWS\system32\WINSPOOL.DRV
+   GDI32.dll - C:\WINDOWS\system32\GDI32.dll
+   WINMM.dll - C:\WINDOWS\system32\WINMM.dll
+   ole32.dll - C:\WINDOWS\system32\ole32.dll

@@ -1,0 +1,247 @@
+C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux>c:\Python27\python.exe setup.py py2exe --includes sip
+running py2exe
+*** searching for required modules ***
+*** parsing results ***
+creating python loader for extension 'unicodedata' (c:\Python27\DLLs\unicodedata.pyd -> unicodedata.pyd)
+creating python loader for extension 'select' (c:\Python27\DLLs\select.pyd -> select.pyd)
+creating python loader for extension 'PyQt4.QtGui' (c:\Python27\lib\site-packages\PyQt4\QtGui.pyd -> PyQt4.QtGui.pyd)
+creating python loader for extension '_hashlib' (c:\Python27\DLLs\_hashlib.pyd -> _hashlib.pyd)
+creating python loader for extension 'sip' (c:\Python27\lib\site-packages\sip.pyd -> sip.pyd)
+creating python loader for extension 'PyQt4.QtCore' (c:\Python27\lib\site-packages\PyQt4\QtCore.pyd -> PyQt4.QtCore.pyd)
+creating python loader for extension 'bz2' (c:\Python27\DLLs\bz2.pyd -> bz2.pyd)
+*** finding dlls needed ***
+*** create binaries ***
+*** byte compile python files ***
+skipping byte-compilation of C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\GUI.py to GUI.pyc
+byte-compiling C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\build\bdist.win32\winexe\temp\PyQt4.QtCore.py to PyQt4\QtCore.pyc
+byte-compiling C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\build\bdist.win32\winexe\temp\PyQt4.QtGui.py to PyQt4\QtGui.pyc
+byte-compiling C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\build\bdist.win32\winexe\temp\_hashlib.py to _hashlib.pyc
+byte-compiling C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\build\bdist.win32\winexe\temp\bz2.py to bz2.pyc
+byte-compiling C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\build\bdist.win32\winexe\temp\select.py to select.pyc
+byte-compiling C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\build\bdist.win32\winexe\temp\sip.py to sip.pyc
+byte-compiling C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\build\bdist.win32\winexe\temp\unicodedata.py to unicodedata.pyc
+skipping byte-compilation of C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\fuzzysystem.py to fuzzysystem.pyc
+skipping byte-compilation of c:\Python27\lib\StringIO.py to StringIO.pyc
+skipping byte-compilation of c:\Python27\lib\UserDict.py to UserDict.pyc
+skipping byte-compilation of c:\Python27\lib\__future__.py to __future__.pyc
+skipping byte-compilation of c:\Python27\lib\_abcoll.py to _abcoll.pyc
+skipping byte-compilation of c:\Python27\lib\_strptime.py to _strptime.pyc
+skipping byte-compilation of c:\Python27\lib\_threading_local.py to _threading_local.pyc
+skipping byte-compilation of c:\Python27\lib\_weakrefset.py to _weakrefset.pyc
+skipping byte-compilation of c:\Python27\lib\abc.py to abc.pyc
+skipping byte-compilation of c:\Python27\lib\atexit.py to atexit.pyc
+skipping byte-compilation of c:\Python27\lib\base64.py to base64.pyc
+skipping byte-compilation of c:\Python27\lib\bdb.py to bdb.pyc
+skipping byte-compilation of c:\Python27\lib\calendar.py to calendar.pyc
+skipping byte-compilation of c:\Python27\lib\cmd.py to cmd.pyc
+skipping byte-compilation of c:\Python27\lib\codecs.py to codecs.pyc
+skipping byte-compilation of c:\Python27\lib\collections.py to collections.pyc
+skipping byte-compilation of c:\Python27\lib\copy.py to copy.pyc
+skipping byte-compilation of c:\Python27\lib\copy_reg.py to copy_reg.pyc
+skipping byte-compilation of c:\Python27\lib\difflib.py to difflib.pyc
+skipping byte-compilation of c:\Python27\lib\dis.py to dis.pyc
+skipping byte-compilation of c:\Python27\lib\doctest.py to doctest.pyc
+skipping byte-compilation of c:\Python27\lib\dummy_thread.py to dummy_thread.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\__init__.py to encodings\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\aliases.py to encodings\aliases.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\ascii.py to encodings\ascii.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\base64_codec.py to encodings\base64_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\big5.py to encodings\big5.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\big5hkscs.py to encodings\big5hkscs.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\bz2_codec.py to encodings\bz2_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\charmap.py to encodings\charmap.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp037.py to encodings\cp037.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1006.py to encodings\cp1006.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1026.py to encodings\cp1026.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1140.py to encodings\cp1140.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1250.py to encodings\cp1250.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1251.py to encodings\cp1251.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1252.py to encodings\cp1252.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1253.py to encodings\cp1253.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1254.py to encodings\cp1254.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1255.py to encodings\cp1255.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1256.py to encodings\cp1256.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1257.py to encodings\cp1257.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp1258.py to encodings\cp1258.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp424.py to encodings\cp424.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp437.py to encodings\cp437.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp500.py to encodings\cp500.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp720.py to encodings\cp720.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp737.py to encodings\cp737.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp775.py to encodings\cp775.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp850.py to encodings\cp850.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp852.py to encodings\cp852.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp855.py to encodings\cp855.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp856.py to encodings\cp856.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp857.py to encodings\cp857.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp858.py to encodings\cp858.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp860.py to encodings\cp860.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp861.py to encodings\cp861.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp862.py to encodings\cp862.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp863.py to encodings\cp863.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp864.py to encodings\cp864.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp865.py to encodings\cp865.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp866.py to encodings\cp866.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp869.py to encodings\cp869.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp874.py to encodings\cp874.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp875.py to encodings\cp875.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp932.py to encodings\cp932.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp949.py to encodings\cp949.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\cp950.py to encodings\cp950.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jis_2004.py to encodings\euc_jis_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jisx0213.py to encodings\euc_jisx0213.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_jp.py to encodings\euc_jp.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\euc_kr.py to encodings\euc_kr.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gb18030.py to encodings\gb18030.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gb2312.py to encodings\gb2312.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\gbk.py to encodings\gbk.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hex_codec.py to encodings\hex_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hp_roman8.py to encodings\hp_roman8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\hz.py to encodings\hz.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\idna.py to encodings\idna.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp.py to encodings\iso2022_jp.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_1.py to encodings\iso2022_jp_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_2.py to encodings\iso2022_jp_2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_2004.py to encodings\iso2022_jp_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_3.py to encodings\iso2022_jp_3.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_jp_ext.py to encodings\iso2022_jp_ext.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso2022_kr.py to encodings\iso2022_kr.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_1.py to encodings\iso8859_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_10.py to encodings\iso8859_10.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_11.py to encodings\iso8859_11.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_13.py to encodings\iso8859_13.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_14.py to encodings\iso8859_14.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_15.py to encodings\iso8859_15.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_16.py to encodings\iso8859_16.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_2.py to encodings\iso8859_2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_3.py to encodings\iso8859_3.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_4.py to encodings\iso8859_4.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_5.py to encodings\iso8859_5.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_6.py to encodings\iso8859_6.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_7.py to encodings\iso8859_7.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_8.py to encodings\iso8859_8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\iso8859_9.py to encodings\iso8859_9.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\johab.py to encodings\johab.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\koi8_r.py to encodings\koi8_r.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\koi8_u.py to encodings\koi8_u.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\latin_1.py to encodings\latin_1.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_arabic.py to encodings\mac_arabic.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_centeuro.py to encodings\mac_centeuro.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_croatian.py to encodings\mac_croatian.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_cyrillic.py to encodings\mac_cyrillic.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_farsi.py to encodings\mac_farsi.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_greek.py to encodings\mac_greek.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_iceland.py to encodings\mac_iceland.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_latin2.py to encodings\mac_latin2.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_roman.py to encodings\mac_roman.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_romanian.py to encodings\mac_romanian.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mac_turkish.py to encodings\mac_turkish.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\mbcs.py to encodings\mbcs.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\palmos.py to encodings\palmos.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\ptcp154.py to encodings\ptcp154.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\punycode.py to encodings\punycode.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\quopri_codec.py to encodings\quopri_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\raw_unicode_escape.py to encodings\raw_unicode_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\rot_13.py to encodings\rot_13.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jis.py to encodings\shift_jis.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jis_2004.py to encodings\shift_jis_2004.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\shift_jisx0213.py to encodings\shift_jisx0213.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\string_escape.py to encodings\string_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\tis_620.py to encodings\tis_620.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\undefined.py to encodings\undefined.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\unicode_escape.py to encodings\unicode_escape.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\unicode_internal.py to encodings\unicode_internal.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16.py to encodings\utf_16.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16_be.py to encodings\utf_16_be.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_16_le.py to encodings\utf_16_le.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32.py to encodings\utf_32.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32_be.py to encodings\utf_32_be.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_32_le.py to encodings\utf_32_le.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_7.py to encodings\utf_7.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_8.py to encodings\utf_8.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\utf_8_sig.py to encodings\utf_8_sig.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\uu_codec.py to encodings\uu_codec.pyc
+skipping byte-compilation of c:\Python27\lib\encodings\zlib_codec.py to encodings\zlib_codec.pyc
+skipping byte-compilation of c:\Python27\lib\fnmatch.py to fnmatch.pyc
+skipping byte-compilation of c:\Python27\lib\functools.py to functools.pyc
+skipping byte-compilation of c:\Python27\lib\genericpath.py to genericpath.pyc
+skipping byte-compilation of c:\Python27\lib\getopt.py to getopt.pyc
+skipping byte-compilation of c:\Python27\lib\gettext.py to gettext.pyc
+skipping byte-compilation of c:\Python27\lib\hashlib.py to hashlib.pyc
+skipping byte-compilation of c:\Python27\lib\heapq.py to heapq.pyc
+skipping byte-compilation of c:\Python27\lib\inspect.py to inspect.pyc
+skipping byte-compilation of c:\Python27\lib\io.py to io.pyc
+skipping byte-compilation of c:\Python27\lib\json\__init__.py to json\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\json\decoder.py to json\decoder.pyc
+skipping byte-compilation of c:\Python27\lib\json\encoder.py to json\encoder.pyc
+skipping byte-compilation of c:\Python27\lib\json\scanner.py to json\scanner.pyc
+skipping byte-compilation of c:\Python27\lib\keyword.py to keyword.pyc
+skipping byte-compilation of c:\Python27\lib\linecache.py to linecache.pyc
+skipping byte-compilation of c:\Python27\lib\locale.py to locale.pyc
+skipping byte-compilation of c:\Python27\lib\logging\__init__.py to logging\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\ntpath.py to ntpath.pyc
+skipping byte-compilation of c:\Python27\lib\opcode.py to opcode.pyc
+skipping byte-compilation of c:\Python27\lib\optparse.py to optparse.pyc
+skipping byte-compilation of c:\Python27\lib\os.py to os.pyc
+skipping byte-compilation of c:\Python27\lib\os2emxpath.py to os2emxpath.pyc
+skipping byte-compilation of c:\Python27\lib\pdb.py to pdb.pyc
+skipping byte-compilation of c:\Python27\lib\pickle.py to pickle.pyc
+skipping byte-compilation of c:\Python27\lib\posixpath.py to posixpath.pyc
+skipping byte-compilation of c:\Python27\lib\pprint.py to pprint.pyc
+skipping byte-compilation of c:\Python27\lib\quopri.py to quopri.pyc
+skipping byte-compilation of c:\Python27\lib\random.py to random.pyc
+skipping byte-compilation of c:\Python27\lib\re.py to re.pyc
+skipping byte-compilation of c:\Python27\lib\repr.py to repr.pyc
+skipping byte-compilation of c:\Python27\lib\shlex.py to shlex.pyc
+skipping byte-compilation of c:\Python27\lib\site-packages\PyQt4\__init__.py to PyQt4\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\sre.py to sre.pyc
+skipping byte-compilation of c:\Python27\lib\sre_compile.py to sre_compile.pyc
+skipping byte-compilation of c:\Python27\lib\sre_constants.py to sre_constants.pyc
+skipping byte-compilation of c:\Python27\lib\sre_parse.py to sre_parse.pyc
+skipping byte-compilation of c:\Python27\lib\stat.py to stat.pyc
+skipping byte-compilation of c:\Python27\lib\string.py to string.pyc
+skipping byte-compilation of c:\Python27\lib\stringprep.py to stringprep.pyc
+skipping byte-compilation of c:\Python27\lib\struct.py to struct.pyc
+skipping byte-compilation of c:\Python27\lib\subprocess.py to subprocess.pyc
+skipping byte-compilation of c:\Python27\lib\tempfile.py to tempfile.pyc
+skipping byte-compilation of c:\Python27\lib\textwrap.py to textwrap.pyc
+skipping byte-compilation of c:\Python27\lib\threading.py to threading.pyc
+skipping byte-compilation of c:\Python27\lib\token.py to token.pyc
+skipping byte-compilation of c:\Python27\lib\tokenize.py to tokenize.pyc
+skipping byte-compilation of c:\Python27\lib\traceback.py to traceback.pyc
+skipping byte-compilation of c:\Python27\lib\types.py to types.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\__init__.py to unittest\__init__.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\case.py to unittest\case.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\loader.py to unittest\loader.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\main.py to unittest\main.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\result.py to unittest\result.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\runner.py to unittest\runner.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\signals.py to unittest\signals.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\suite.py to unittest\suite.pyc
+skipping byte-compilation of c:\Python27\lib\unittest\util.py to unittest\util.pyc
+skipping byte-compilation of c:\Python27\lib\warnings.py to warnings.pyc
+skipping byte-compilation of c:\Python27\lib\weakref.py to weakref.pyc
+*** copy extensions ***
+copying c:\Python27\lib\site-packages\sip.pyd -> C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\dist
+*** copy dlls ***
+copying c:\Python27\lib\site-packages\py2exe\run_w.exe -> C:\Users\kite\Downloads\hw1linux-20170327T015339Z-001\hw1linux\dist\main.exe
+
+*** binary dependencies ***
+Your executable(s) also depend on these dlls which are not included,
+you may or may not need to distribute them.
+
+Make sure you have the license if you distribute any of them, and
+make sure you don't distribute files belonging to the operating system.
+
+   OLEAUT32.dll - C:\WINDOWS\system32\OLEAUT32.dll
+   USER32.dll - C:\WINDOWS\system32\USER32.dll
+   IMM32.dll - C:\WINDOWS\system32\IMM32.dll
+   SHELL32.dll - C:\WINDOWS\system32\SHELL32.dll
+   ole32.dll - C:\WINDOWS\system32\ole32.dll
+   WINMM.dll - C:\WINDOWS\system32\WINMM.dll
+   COMDLG32.dll - C:\WINDOWS\system32\COMDLG32.dll
+   ADVAPI32.dll - C:\WINDOWS\system32\ADVAPI32.dll
+   WS2_32.dll - C:\WINDOWS\system32\WS2_32.dll
+   WINSPOOL.DRV - C:\WINDOWS\system32\WINSPOOL.DRV
+   GDI32.dll - C:\WINDOWS\system32\GDI32.dll
+   KERNEL32.dll - C:\WINDOWS\system32\KERNEL32.dll
